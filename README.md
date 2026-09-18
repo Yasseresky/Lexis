@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ LEXIS
+# ⚡ [LEXIS](https://lexis-analytics.netlify.app/)
 
 **Write › Analyze › Create**  
  _Your smart, privacy-focused workspace for better ideas and deeper text insights._
