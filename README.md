@@ -6,9 +6,8 @@
  _Your smart, privacy-focused workspace for better ideas and deeper text insights._
 
 [![Live Demo](https://img.shields.io/badge/Live-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://your-netlify-url.netlify.app)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.0+-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 
   <br />
 
@@ -46,9 +45,3 @@ Whether you are drafting content, analyzing character frequencies, or tracking c
 | **Icons & Typography** | Material Symbols, Inter Font                                 |
 | **Storage & State**    | Browser LocalStorage API                                     |
 | **Deployment**         | Netlify                                                      |
-
----
-
-## 📄 License
-
-Distributed under the [MIT](LICENSE) License. See LICENSE for more information.
